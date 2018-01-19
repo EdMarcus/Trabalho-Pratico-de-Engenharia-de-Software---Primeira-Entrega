@@ -64,7 +64,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RF-02(1)          | Pagar Título         |Quitação.          | Essencial
 |RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
-|RF-05(1)          |Alterar Administrador|Modificar cadatro do admi	nistrador| Essencial
+|RF-05(1)          |Alterar Administrador|Modificar cadatro do administrador| Essencial
 |RF-06(1)          |Alterar Recupera Senha do Administrador|Recupera Senha do Administrador caso ele Perca| Essencial
 |RF-07(1)          |Exclui Administrador| Exclui um Administrador do Sistema| Essencial
 |RF-08(1)          | Cadastro Usuário |Cadastro de Usuário| Essencial
@@ -334,28 +334,7 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário informa Login e senha;
-	3. Usuário acessa a opção Preço e Desconto;
-	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
-	5. Usuário preenche os campos do formulário.
-	6. Usuário confirma lançamento.
-  - **Extensões:** 
-     - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
-        - Notificação de erro ao Usuário;
-        - Informações novamente solicitadas.  
-        - 
-#### 3.1 Caso de Uso I – Alterar Preço
-  - **Nível:** Administrador ou Usuário
-  - **Atores primários:** Administrador e Usuário 
-  - **Interessados:** Administrador e Usuário
-    - **Administrador:** Alterar valor locação de Título.
-    - **Usuário:** Alterar valor locação de Título.
-  - **Pré-condições:** ?
-  - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
-  - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
-	2. Usuário informa Login e senha;
+	2. 
 	3. Usuário acessa a opção Preço e Desconto;
 	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
 	5. Usuário preenche os campos do formulário.
@@ -379,5 +358,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Nzc0OTYyMF19
+eyJoaXN0b3J5IjpbLTUyNDUxMzExOF19
 -->
